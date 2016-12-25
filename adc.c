@@ -1,5 +1,5 @@
 
-Program for ADC:
+//Program for ADC:
 #include<reg51.h>
 #define input P0 //Input port to read the values of ADc
 #define output P2 // Output port, connected to LED's.
